@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1431634060 source:/home/tomek/Dropbox/WORKPLACE/Projects/PokerHands/Card.cpp
+	"Card.h"
+	<iostream>
+
+1431634244 /home/tomek/Dropbox/WORKPLACE/Projects/PokerHands/Card.h
+	<string>
+
+1431629792 source:/home/tomek/Dropbox/WORKPLACE/Projects/PokerHands/main.cpp
+	<iostream>
+	"Poker.h"
+
+1431633102 /home/tomek/Dropbox/WORKPLACE/Projects/PokerHands/Poker.h
+	<string>
+	<fstream>
+	<sstream>
+	"Hand.h"
+
+1431634106 source:/home/tomek/Dropbox/WORKPLACE/Projects/PokerHands/Poker.cpp
+	<iostream>
+	"Poker.h"
+
+1431634150 source:/home/tomek/Dropbox/WORKPLACE/Projects/PokerHands/Hand.cpp
+	"Hand.h"
+	"Card.h"
+	<iostream>
+
+1431628110 /home/tomek/Dropbox/WORKPLACE/Projects/PokerHands/Hand.h
+	<vector>
+	"Card.h"
+
